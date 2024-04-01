@@ -63,16 +63,16 @@
           </ol>
           <div class="carousel-inner">
                         <div class="carousel-item active" data-bs-interval="2000">
-				<img class="d-block w-100" src="ASYIFA 1.png" alt="First slide">
+				<img class="d-block w-100" src="RUDY 1.png" alt="First slide">
             </div>
                       </div>
-          <a class="carousel-control-prev" href="ASYIFA 2.png" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="RUDY 2.png" role="button" data-slide="prev">
             <span class="carousel-control-custom-icon" aria-hidden="true">
               <i class="fas fa-chevron-left"></i>
             </span>
             <span class="sr-only">Previous</span>
           </a>
-          <a class="carousel-control-next" href="ASYIFA 3.png" role="button" data-slide="next">
+          <a class="carousel-control-next" href="RUDY 3.png" role="button" data-slide="next">
             <span class="carousel-control-custom-icon" aria-hidden="true">
               <i class="fas fa-chevron-right"></i>
             </span>
@@ -97,7 +97,9 @@
 			 <tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td>Jalan Kelapa Molek VI Blok Y 2 No. 12 Kelurahan Kelapa Gading Timur, Kecamatan Kelapa Gading Kota Administrasi Jakarta Utara, Provinsi DKI Jakarta						
+              <td>Jalan Raya Teluk Gong No 9A			
+Kelurahan Pejagalan, Kecamatan Penjaringan			
+Kotamadya Jakarta Utara, Propinsi DKI Jakarta																												
 			</td>
             </tr>
 			 <tr>
@@ -108,12 +110,12 @@
 			<tr>
               <td>Tanggal Inspeksi</td>
               <td>: </td>
-              <td>18 April 2022</td>
+              <td>5 Juli 2022</td>
             </tr>
 			<tr>
               <td>Tanggal Penilaian</td>
               <td>: </td>
-              <td>18 April 2022</td>
+              <td>5 Juli 2022</td>
             </tr>
 			<tr>
               <td>Tahun Penilaian</td>
@@ -123,8 +125,8 @@
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B010'21.4%22S+106%C2%B054'16.5%22E/@-6.1726127,106.9020201,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.172618!4d106.904595?entry=ttu">
--6.172618, 106.904595			
+              <td><a href="https://www.google.com/maps/place/6%C2%B008'15.8%22S+106%C2%B047'03.5%22E/@-6.1377157,106.7817271,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.137721!4d106.784302?entry=ttu">
+ -6.137721, 106.784302												
                   </a></td>
             </tr>
 			<tr>
@@ -135,22 +137,22 @@
            <tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td> 102 m2</td>
+              <td> 2.281 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td> 193 m2</td>
+              <td> 2.435 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td>Rp 2.436.118.000,-</td>
+              <td> Rp 52.116.230.000,-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td>Rp 18.470.000,-</td>
+              <td> Rp 21.800.000,-</td>
             </tr>
           </tbody>
         </table>
@@ -169,50 +171,50 @@
 			<tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td>Jalan Kelapa Molek VI Blok Y 2 No. 10	
+              <td>Jalan Raya Teluk Gong		
 	</td>
             </tr>
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B010'21.8%22S+106%C2%B054'16.3%22E/@-6.1727027,106.9019471,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.172708!4d106.904522?entry=ttu">
--6.172708, 106.904522		
+              <td><a href="https://www.google.com/maps/place/6%C2%B008'18.7%22S+106%C2%B046'39.4%22E/@-6.1385227,106.7750351,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.138528!4d106.77761?entry=ttu">
+-6.138528,106.77761						
                   </a></td>
             </tr>
 			<tr>
               <th>Jenis Data</th>
               <th style="width: 10px">:</th>
-              <th>Rumah Tinggal</th>
+              <th>Gudang</th>
             </tr>
            <tr>
               <td>Nama Sumber Data</td>
               <td>:</td>
-              <td>Agen properti</td>
+              <td>Agen Properti</td>
             </tr>
 			<tr>
               <td>No. Telp. Sumber Data </td>
               <td>: </td>
-              <td>0819 0803 6385</td>
+              <td>0812 1062 1900</td>
             </tr>
 			<tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td> 102 m2</td>
+              <td> 799 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td> 160 m2</td>
+              <td> 500 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td>Rp 3.100.000.000,-</td>
+              <td> Rp 24.000.000.000,-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td>Rp 19.436.318,-</td>
+              <td> Rp 25.644.556,-</td>
             </tr>
           </tbody>
         </table>
@@ -231,50 +233,50 @@
 			<tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td>Jalan Kelapa Molek VI Blok Z 1 No. 5	
+              <td>Jalan Raya Teluk Gong		
 	</td>
             </tr>
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B010'21.2%22S+106%C2%B054'15.3%22E/@-6.1725367,106.9016871,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.172542!4d106.904262?entry=ttu">
--6.172542, 106.904262	
+              <td><a href="https://www.google.com/maps/place/6%C2%B008'18.1%22S+106%C2%B046'49.7%22E/@-6.1383457,106.7778831,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.138351!4d106.780458?entry=ttu">
+-6.138351, 106.780458				
                   </a></td>
             </tr>
 			<tr>
               <th>Jenis Data</th>
               <th style="width: 10px">:</th>
-              <th>Rumah Tinggal</th>
+              <th>Gudang</th>
             </tr>
 			<tr>
               <td>Nama Sumber Data</td>
               <td>:</td>
-              <td>Agen properti</td>
+              <td>Agen Properti</td>
             </tr>
 			<tr>
               <td>No. Telp. Sumber Data </td>
               <td>: </td>
-              <td>0813 1487 3412</td>
+              <td>0813 1116 0623</td>
             </tr>
 			<tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td> 102 m2</td>
+              <td> 1.700 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td> 80 m2</td>
+              <td> 247 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td>Rp 2.350.000.000,-</td>
+              <td> Rp 45.900.000.000,-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td>Rp 18.751.323,-</td>
+              <td> Rp 23.977.447,-</td>
             </tr>
           </tbody>
         </table>
@@ -292,50 +294,50 @@
 			<tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td>Jalan Kelapa Molek V Blok U 1 No. 22		
+              <td>Jalan Raya Teluk Gong			
 	</td>
             </tr>
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B010'21.0%22S+106%C2%B054'12.5%22E/@-6.1725057,106.9009011,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.172511!4d106.903476?entry=ttu">
- -6.172511, 106.903476	
+              <td><a href="https://www.google.com/maps/place/6%C2%B008'19.8%22S+106%C2%B046'37.6%22E/@-6.1388307,106.7745301,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.138836!4d106.777105?entry=ttu">
+-6.138836, 106.777105	
                   </a></td>
             </tr>
 			<tr>
               <th>Jenis Data</th>
               <th style="width: 10px">:</th>
-              <th>Rumah Tinggal</th>
+              <th>Gudang</th>
             </tr>
            <tr>
               <td>Nama Sumber Data</td>
               <td>:</td>
-              <td>Agen properti</td>
+              <td>Agen Properti</td>
             </tr>
 			<tr>
               <td>No. Telp. Sumber Data </td>
               <td>: </td>
-              <td>0816 1952 786</td>
+              <td>0877 0877 7082</td>
             </tr>
 			<tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td> 102 m2</td>
+              <td> 587 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td> 60 m2</td>
+              <td> 704 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td>Rp 2.100.000.000,-</td>
+              <td> Rp 20.000.000.000,-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td>Rp 17.649.418,-</td>
+              <td> Rp 27.336.286,-</td>
             </tr>
           </tbody>
         </table>
@@ -374,7 +376,7 @@
 
 
         var iconsekolah = L.icon({
-            iconUrl: 'OBJEK ASYIFA.png',
+            iconUrl: 'OBJEK RUDY.png',
             iconSize:     [300, 300],        
         });
 
