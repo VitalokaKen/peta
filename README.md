@@ -67,13 +67,13 @@
 				<img class="d-block w-100" src="OBJEK ANDRI.png" alt="First slide">
             </div>
                       </div>
-          <a class="carousel-control-prev" href="RUDY 2.png" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="OBJEK ANDRI.png" role="button" data-slide="prev">
             <span class="carousel-control-custom-icon" aria-hidden="true">
               <i class="fas fa-chevron-left"></i>
             </span>
             <span class="sr-only">Previous</span>
           </a>
-          <a class="carousel-control-next" href="RUDY 3.png" role="button" data-slide="next">
+          <a class="carousel-control-next" href="OBJEK ANDRI.png" role="button" data-slide="next">
             <span class="carousel-control-custom-icon" aria-hidden="true">
               <i class="fas fa-chevron-right"></i>
             </span>
@@ -377,7 +377,7 @@ Kotamadya Jakarta Utara, Propinsi DKI Jakarta
 
 
         var iconsekolah = L.icon({
-            iconUrl: 'OBJEK RUDY.png',
+            iconUrl: 'OBJEK ANDRI.png.png',
             iconSize:     [300, 300],        
         });
 
