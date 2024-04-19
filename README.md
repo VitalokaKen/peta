@@ -377,7 +377,7 @@ Kotamadya Jakarta Utara, Propinsi DKI Jakarta
 
 
         var iconsekolah = L.icon({
-            iconUrl: 'OBJEK ANDRI.png.png',
+            iconUrl: 'OBJEK ANDRI.png',
             iconSize:     [300, 300],        
         });
 
