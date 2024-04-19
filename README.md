@@ -64,7 +64,7 @@
           </ol>
           <div class="carousel-inner">
                         <div class="carousel-item active" data-bs-interval="2000">
-				<img class="d-block w-100" src="RUDY 1.png" alt="First slide">
+				<img class="d-block w-100" src="OBJEK ANDRI.png" alt="First slide">
             </div>
                       </div>
           <a class="carousel-control-prev" href="RUDY 2.png" role="button" data-slide="prev">
