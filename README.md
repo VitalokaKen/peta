@@ -156,7 +156,7 @@ Kotamadya Jakarta Utara, Propinsi DKI Jakarta
     </div>
     <!-- /.card -->
 
-   <div class="col-md-6">
+   
     <div class="card">
       <div class="card-header">
         <h3 class="card-title">DATA Pembanding 1</h3>
