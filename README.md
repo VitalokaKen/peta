@@ -91,10 +91,7 @@
       <div class="card-header">
         <h3 class="card-title">Detail Objek</h3>
       </div>
-      
-      <div class="card-body">
-        <table class="table table-bordered">
-          <thead>
+   
 			 <tr>
               <td> Lokasi  </td>
               <td>:</td>
