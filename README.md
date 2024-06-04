@@ -1,17 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>peta | maps</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="peta" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="maps" />
+<meta property="og:description" content="maps" />
+<link rel="canonical" href="https://vitalokaken.github.io/peta/" />
+<meta property="og:url" content="https://vitalokaken.github.io/peta/" />
+<meta property="og:site_name" content="peta" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="peta" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"maps","headline":"peta","name":"peta","url":"https://vitalokaken.github.io/peta/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/peta/assets/css/style.css?v=047ff017d58ed20ef2a1142a01cd9f2331719917">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/peta/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://vitalokaken.github.io/peta/">peta</a></h1>
+      
+
+      
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>KJPP Hari Utomo dan Rekan</title>
-  <link rel="stylesheet" href="https://diy.magis.unwahas.ac.id/AdminLTE/plugins/fontawesome-free/css/all.min.css">
-  <link href="https://diy.magis.unwahas.ac.id/css/app.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-    crossorigin="" />
-  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-    crossorigin=""></script>
+  <link rel="stylesheet" href="https://diy.magis.unwahas.ac.id/AdminLTE/plugins/fontawesome-free/css/all.min.css" />
+  <link href="https://diy.magis.unwahas.ac.id/css/app.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.1/chart.js"></script>
   <!-- jQuery -->
   <script src="https://diy.magis.unwahas.ac.id/AdminLTE/plugins/jquery/jquery.min.js"></script>
@@ -45,7 +84,7 @@
         <h3 class="card-title">
           Peta
         </h3>
-        <hr>
+        <hr />
         <div id="map" style="width: 100%; height: 550px;"></div>
       </div>
     </div>
@@ -57,14 +96,14 @@
         <h3 class="card-title">
       Gambar
         </h3>
-        <hr>
+        <hr />
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
           </ol>
           <div class="carousel-inner">
                         <div class="carousel-item active" data-bs-interval="2000">
-				<img class="d-block w-100" src="OBJEK ANDRI.png" alt="First slide">
+				<img class="d-block w-100" src="OBJEK ANDRI.png" alt="First slide" />
             </div>
                       </div>
           <a class="carousel-control-prev" href="OBJEK ANDRI.png" role="button" data-slide="prev">
@@ -91,38 +130,43 @@
       <div class="card-header">
         <h3 class="card-title">Detail Objek</h3>
       </div>
-      [<!-- /.card-header -->
+    <!-- /.card-header -->
       <div class="card-body">
         <table class="table table-bordered">
-          <thead>](url)
+          <tbody>
 			 <tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td>Jalan Puring  No. 03 RT 10 RW 03, Kelurahan Jatipulo, Kecamatan Palmerah, Kota Jakarta Barat, Propinsi DKI Jakarta<tr>
+              <td>Jalan Raya Teluk Gong No 9A			
+Kelurahan Pejagalan, Kecamatan Penjaringan			
+Kotamadya Jakarta Utara, Propinsi DKI Jakarta																												
+			</td>
+            </tr>
+			 <tr>
               <td>Basis Nilai</td>
               <td>: </td>
               <td>Nilai Pasar dan Indikasi Nilai Likuidasi</td>
             </tr>
 			<tr>
-              <td>Tanggal Laporan</td>
+              <td>Tanggal Inspeksi</td>
               <td>: </td>
-              <td>22 Februari 2023</td>
+              <td>5 Juli 2022</td>
             </tr>
 			<tr>
               <td>Tanggal Penilaian</td>
               <td>: </td>
-              <td>14 Februari 2023</td>
+              <td>5 Juli 2022</td>
             </tr>
 			<tr>
               <td>Tahun Penilaian</td>
               <td>: </td>
-              <td> 2023 </td>
+              <td> 2022 </td>
             </tr>
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B029'12.7%22S+106%C2%B048'06.3%22E/@-6.486861,106.80175,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.486861!4d106.80175?entry=ttu">
-         -6.239042, 106.687636
+              <td><a href="https://www.google.com/maps/place/6%C2%B008'15.8%22S+106%C2%B047'03.5%22E/@-6.1377157,106.7817271,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.137721!4d106.784302?entry=ttu">
+ -6.137721, 106.784302												
                   </a></td>
             </tr>
 			<tr>
@@ -133,83 +177,88 @@
            <tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td>171 m2</td>
+              <td> 2.281 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td>168 m2</td>
+              <td> 2.435 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td>Rp 2.319.350.000,-</td>
+              <td> Rp 52.116.230.000,-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td>Rp 12.100.000,-</td>
+              <td> Rp 21.800.000,-</td>
             </tr>
           </tbody>
         </table>
       </div>
     </div>
     <!-- /.card -->
- <div class="card">
+<!-- /.card-header -->
+      <div class="card-body">
+        <table class="table table-bordered">
+          <tbody>
+   <div class="col-md-6">
+    <div class="card">
       <div class="card-header">
         <h3 class="card-title">DATA Pembanding 1</h3>
       </div>
       <!-- /.card-header -->
       <div class="card-body">
         <table class="table table-bordered">
-
           <tbody>
 			<tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td>Jalan Aren</td>
+              <td>Jalan Raya Teluk Gong		
+	</td>
             </tr>
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="">
-              -
+              <td><a href="https://www.google.com/maps/place/6%C2%B008'18.7%22S+106%C2%B046'39.4%22E/@-6.1385227,106.7750351,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.138528!4d106.77761?entry=ttu">
+-6.138528,106.77761						
                   </a></td>
             </tr>
 			<tr>
               <th>Jenis Data</th>
               <th style="width: 10px">:</th>
-              <th>Rumah Tinggal</th>
+              <th>Gudang</th>
             </tr>
-			<tr>
+           <tr>
               <td>Nama Sumber Data</td>
               <td>:</td>
-              <td>Hana</td>
+              <td>Agen Properti</td>
             </tr>
 			<tr>
               <td>No. Telp. Sumber Data </td>
               <td>: </td>
-              <td>0816 4847 955</td>
+              <td>0812 1062 1900</td>
             </tr>
-          <tr>
+			<tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td>119 m2</td>
+              <td> 799 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td>200 m2</td>
+              <td> 500 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td>Rp 3.200.000.000,-</td>
+              <td> Rp 24.000.000.000,-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td>Rp 14.978.821,-</td>
+              <td> Rp 25.644.556,-</td>
             </tr>
           </tbody>
         </table>
@@ -221,10 +270,10 @@
       <div class="card-header">
         <h3 class="card-title">DATA Pembanding 2</h3>
       </div>
-      [<!-- /.card-header -->
+      <!-- /.card-header -->
       <div class="card-body">
         <table class="table table-bordered">
-          <tbody>](url)
+          <tbody>
 			<tr>
               <td> Lokasi  </td>
               <td>:</td>
@@ -338,12 +387,12 @@
         </table>
       </div>
     </div>
-          </tbody>
-        </table>
+          &lt;/tbody&gt;
+        &lt;/table&gt;
       </div>
-    </div>
-  </div>
-</div>
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
   
 
 <script>
@@ -380,8 +429,17 @@
         // .bindPopup(L.popup({maxWidth:500}).setContent('<a href="https://www.google.com/maps/dir//-7.9409693,110.5509868" target="_blank">Rute Ke Lokasi</a>'))
 		 .addTo(map);
 </script>
-      </div>
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</tbody></table></div></div></div></div></div></html>
+
+
+      
     </div>
-  </div>
-</body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
 </html>
