@@ -155,7 +155,6 @@
       </div>
     </div>
     <!-- /.card -->
- <!-- /.card -->
  <div class="card">
       <div class="card-header">
         <h3 class="card-title">DATA Pembanding 1</h3>
