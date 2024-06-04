@@ -296,8 +296,7 @@ Kotamadya Jakarta Utara, Propinsi DKI Jakarta
               <td>:</td>
               <td> Rp 25.644.556,-</td>
             </tr>
-          &lt;/tbody&gt;
-        &lt;/table&gt;
+        
       </div>
     </div>
   </div>
