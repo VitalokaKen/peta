@@ -335,12 +335,9 @@ Kotamadya Jakarta Utara, Propinsi DKI Jakarta
         </table>
       </div>
     </div>
-          &lt;/tbody&gt;
-        &lt;/table&gt;
+        
       </div>
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+ 
   
 
 <script>
