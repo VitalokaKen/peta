@@ -374,6 +374,6 @@ Kotamadya Jakarta Utara, Propinsi DKI Jakarta
         // .bindPopup(L.popup({maxWidth:500}).setContent('<a href="https://www.google.com/maps/dir//-7.9409693,110.5509868" target="_blank">Rute Ke Lokasi</a>'))
 		 .addTo(map);
 </script>
-   </html>
+
 
 
