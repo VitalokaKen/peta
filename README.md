@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -22,7 +22,50 @@
 {"@context":"https://schema.org","@type":"WebSite","description":"maps","headline":"peta","name":"peta","url":"https://vitalokaken.github.io/peta/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/peta/assets/css/style.css?v=047ff017d58ed20ef2a1142a01cd9f2331719917">
+    <link rel="stylesheet" href="/peta/assets/css/style.css?v=f90374200d9059853883a3c45e036783d48d83ab">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/peta/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://vitalokaken.github.io/peta/">peta</a></h1>
+      
+
+      
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>peta | maps</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="peta" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="maps" />
+<meta property="og:description" content="maps" />
+<link rel="canonical" href="https://vitalokaken.github.io/peta/" />
+<meta property="og:url" content="https://vitalokaken.github.io/peta/" />
+<meta property="og:site_name" content="peta" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="peta" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"maps","headline":"peta","name":"peta","url":"https://vitalokaken.github.io/peta/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/peta/assets/css/style.css?v=047ff017d58ed20ef2a1142a01cd9f2331719917" />
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -205,11 +248,7 @@ Kotamadya Jakarta Utara, Propinsi DKI Jakarta
       <div class="card-header">
         <h3 class="card-title">DATA Pembanding 1</h3>
       </div>
-    <!-- /.card-header -->
-      <div class="card-body">
-        <table class="table table-bordered">
-          <tbody>
-			 <tr>
+    
 			<tr>
               <td> Lokasi  </td>
               <td>:</td>
@@ -258,8 +297,8 @@ Kotamadya Jakarta Utara, Propinsi DKI Jakarta
               <td>:</td>
               <td> Rp 25.644.556,-</td>
             </tr>
-          </tbody>
-        </table>
+          &lt;/tbody&gt;
+        &lt;/table&gt;
       </div>
     </div>
   </div>
@@ -432,7 +471,15 @@ Kotamadya Jakarta Utara, Propinsi DKI Jakarta
   &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;
-</tbody></table></div></div></div></div></div></html>
+&lt;/tbody&gt;&lt;/table&gt;</div></div></div>&lt;/div&gt;&lt;/div&gt;</html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
 
 
       
