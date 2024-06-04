@@ -91,10 +91,10 @@
       <div class="card-header">
         <h3 class="card-title">Detail Objek</h3>
       </div>
-      <!-- /.card-header -->
+      [<!-- /.card-header -->
       <div class="card-body">
         <table class="table table-bordered">
-          <thead>
+          <thead>](url)
 			 <tr>
               <td> Lokasi  </td>
               <td>:</td>
