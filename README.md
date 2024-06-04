@@ -160,11 +160,12 @@ Kotamadya Jakarta Utara, Propinsi DKI Jakarta
       </div>
     </div>
     <!-- /.card -->
- <div class="card">
+
+      <!-- /.card-header -->
+	 <div class="card">
       <div class="card-header">
         <h3 class="card-title">DATA Pembanding 1</h3>
       </div>
-      <!-- /.card-header -->
       <div class="card-body">
         <table class="table table-bordered">
 
