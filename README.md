@@ -199,10 +199,7 @@ Kotamadya Jakarta Utara, Propinsi DKI Jakarta
       </div>
     </div>
     <!-- /.card -->
-[<!-- /.card-header -->
-      <div class="card-body">
-        <table class="table table-bordered">
-          <tbody>](url)
+
    <div class="col-md-6">
     <div class="card">
       <div class="card-header">
