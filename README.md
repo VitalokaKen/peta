@@ -91,7 +91,10 @@
       <div class="card-header">
         <h3 class="card-title">Detail Objek</h3>
       </div>
-   
+   <!-- /.card-header -->
+      <div class="card-body">
+        <table class="table table-bordered">
+          <tbody>
 			 <tr>
               <td> Lokasi  </td>
               <td>:</td>
