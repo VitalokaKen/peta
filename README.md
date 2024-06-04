@@ -91,43 +91,38 @@
       <div class="card-header">
         <h3 class="card-title">Detail Objek</h3>
       </div>
-    <!-- /.card-header -->
+      <!-- /.card-header -->
       <div class="card-body">
         <table class="table table-bordered">
-          <tbody>
+          <thead>
 			 <tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td>Jalan Raya Teluk Gong No 9A			
-Kelurahan Pejagalan, Kecamatan Penjaringan			
-Kotamadya Jakarta Utara, Propinsi DKI Jakarta																												
-			</td>
-            </tr>
-			 <tr>
+              <td>Jalan Puring  No. 03 RT 10 RW 03, Kelurahan Jatipulo, Kecamatan Palmerah, Kota Jakarta Barat, Propinsi DKI Jakarta<tr>
               <td>Basis Nilai</td>
               <td>: </td>
               <td>Nilai Pasar dan Indikasi Nilai Likuidasi</td>
             </tr>
 			<tr>
-              <td>Tanggal Inspeksi</td>
+              <td>Tanggal Laporan</td>
               <td>: </td>
-              <td>5 Juli 2022</td>
+              <td>22 Februari 2023</td>
             </tr>
 			<tr>
               <td>Tanggal Penilaian</td>
               <td>: </td>
-              <td>5 Juli 2022</td>
+              <td>14 Februari 2023</td>
             </tr>
 			<tr>
               <td>Tahun Penilaian</td>
               <td>: </td>
-              <td> 2022 </td>
+              <td> 2023 </td>
             </tr>
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B008'15.8%22S+106%C2%B047'03.5%22E/@-6.1377157,106.7817271,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.137721!4d106.784302?entry=ttu">
- -6.137721, 106.784302												
+              <td><a href="https://www.google.com/maps/place/6%C2%B029'12.7%22S+106%C2%B048'06.3%22E/@-6.486861,106.80175,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.486861!4d106.80175?entry=ttu">
+         -6.239042, 106.687636
                   </a></td>
             </tr>
 			<tr>
@@ -138,88 +133,83 @@ Kotamadya Jakarta Utara, Propinsi DKI Jakarta
            <tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td> 2.281 m2</td>
+              <td>171 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td> 2.435 m2</td>
+              <td>168 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td> Rp 52.116.230.000,-</td>
+              <td>Rp 2.319.350.000,-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td> Rp 21.800.000,-</td>
+              <td>Rp 12.100.000,-</td>
             </tr>
           </tbody>
         </table>
       </div>
     </div>
     <!-- /.card -->
-<!-- /.card-header -->
-      <div class="card-body">
-        <table class="table table-bordered">
-          <tbody>
-   <div class="col-md-6">
-    <div class="card">
+ <div class="card">
       <div class="card-header">
         <h3 class="card-title">DATA Pembanding 1</h3>
       </div>
       <!-- /.card-header -->
       <div class="card-body">
         <table class="table table-bordered">
+
           <tbody>
 			<tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td>Jalan Raya Teluk Gong		
-	</td>
+              <td>Jalan Aren</td>
             </tr>
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B008'18.7%22S+106%C2%B046'39.4%22E/@-6.1385227,106.7750351,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.138528!4d106.77761?entry=ttu">
--6.138528,106.77761						
+              <td><a href="">
+              -
                   </a></td>
             </tr>
 			<tr>
               <th>Jenis Data</th>
               <th style="width: 10px">:</th>
-              <th>Gudang</th>
+              <th>Rumah Tinggal</th>
             </tr>
-           <tr>
+			<tr>
               <td>Nama Sumber Data</td>
               <td>:</td>
-              <td>Agen Properti</td>
+              <td>Hana</td>
             </tr>
 			<tr>
               <td>No. Telp. Sumber Data </td>
               <td>: </td>
-              <td>0812 1062 1900</td>
+              <td>0816 4847 955</td>
             </tr>
-			<tr>
+          <tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td> 799 m2</td>
+              <td>119 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td> 500 m2</td>
+              <td>200 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td> Rp 24.000.000.000,-</td>
+              <td>Rp 3.200.000.000,-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td> Rp 25.644.556,-</td>
+              <td>Rp 14.978.821,-</td>
             </tr>
           </tbody>
         </table>
