@@ -161,7 +161,14 @@ Kotamadya Jakarta Utara, Propinsi DKI Jakarta
       <div class="card-body">
         <table class="table table-bordered">
           <tbody>
-   
+   <div class="col-md-6">
+    <div class="card">
+      <div class="card-header">
+        <h3 class="card-title">DATA Pembanding 1</h3>
+      </div>
+      <!-- /.card-header -->
+      <div class="card-body">
+        <table class="table table-bordered">
           <tbody>
 			<tr>
               <td> Lokasi  </td>
