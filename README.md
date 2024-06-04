@@ -34,7 +34,7 @@
       <div class="content">
 <div class="row mx-5 mt-3">
    <div class="col">
-    <a href="GISKJPPHU.html" class="btn" style="background-color: #84C2D8; border-radius: 10px">Kembali</a>
+    <a href="https://hariutomo.co.id/" class="btn" style="background-color: #84C2D8; border-radius: 10px">Kembali</a>
    </div>
 </div>
 <div class="row mt-3 mx-5">
